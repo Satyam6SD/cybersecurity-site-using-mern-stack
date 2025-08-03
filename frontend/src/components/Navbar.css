@@ -1,0 +1,9 @@
+.navbar-brand {
+  transition: transform 0.2s ease, color 0.2s ease;
+}
+
+.navbar-brand:hover {
+  transform: scale(1.05);
+  color: #0dcaf0; /* light blue, you can choose your own */
+  text-decoration: none;
+}
